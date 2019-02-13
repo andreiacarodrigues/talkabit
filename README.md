@@ -1,2 +1,2 @@
-# conference
-Responsive HTML5 Bootstrap 3 template for Event Site
+# Talk A Bit
+Website for the Talk A Bit conference 7th edition.
